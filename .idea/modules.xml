@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RecommendationMovies.iml" filepath="$PROJECT_DIR$/.idea/RecommendationMovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecommendationStepFive/RecommendationStepFive.iml" filepath="$PROJECT_DIR$/RecommendationStepFive/RecommendationStepFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecommendationStepFour/RecommendationStepFour.iml" filepath="$PROJECT_DIR$/RecommendationStepFour/RecommendationStepFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecommendationStepOneStarterProgram/RecommendationStepOneStarterProgram.iml" filepath="$PROJECT_DIR$/RecommendationStepOneStarterProgram/RecommendationStepOneStarterProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecommendationStepThree/RecommendationStepThree.iml" filepath="$PROJECT_DIR$/RecommendationStepThree/RecommendationStepThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecommendationStepTwo/RecommendationStepTwo.iml" filepath="$PROJECT_DIR$/RecommendationStepTwo/RecommendationStepTwo.iml" />
+    </modules>
+  </component>
+</project>
